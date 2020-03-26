@@ -15,6 +15,7 @@
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <usePurposes>PersonalComputer</usePurposes>
   <scriptVariant>Russian</scriptVariant>
+  <version>1.0.0</version>
   <mainSectionPicture/>
   <defaultLanguage>Language.Русский</defaultLanguage>
   <logo/>
@@ -37,12 +38,15 @@
   <styles>Style.Корпоративный</styles>
   <commonPictures>CommonPicture.КартинкаПоставки</commonPictures>
   <commonPictures>CommonPicture.КартинкаЗаказы</commonPictures>
+  <sessionParameters>SessionParameter.ТекущийПользовательСеанса</sessionParameters>
+  <roles>Role.Администратор</roles>
   <definedTypes>DefinedType.ДенежныеСредства</definedTypes>
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Поставщики</catalogs>
   <catalogs>Catalog.Договоры</catalogs>
   <catalogs>Catalog.ФизическиеЛица</catalogs>
   <catalogs>Catalog.Города</catalogs>
+  <catalogs>Catalog.Пользователи</catalogs>
   <documents>Document.ЗаказыПоставщикам</documents>
   <documents>Document.ПриходныеНакладные</documents>
   <documents>Document.РасходыДенежныхСредств</documents>
